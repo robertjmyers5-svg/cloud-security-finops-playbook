@@ -1,68 +1,109 @@
-# Mapping My Experience to Cloud + Security + FinOps
+# Mapping My Resume to Cloud Security, FinOps, Governance & Cloud Operations
 
-This document connects my past experience directly to the roles I’m building into.
-
----
-
-## Military (20 Years)
-
-### What I did:
-- Led teams under pressure
-- Managed classified systems and secure environments
-- Oversaw personnel, operations, logistics, and readiness
-- Enforced standards, compliance, and accountability
-- Used defense-in-depth thinking daily
-
-### Maps to Cloud/Security:
-- Identity & Access Management mind-set
-- Security controls & governance
-- Risk assessment
-- Incident response discipline
-- “Assume breach” mentality before Zero Trust existed
+This file connects my resume directly to modern cloud roles so recruiters clearly understand how my background transfers.
 
 ---
 
-## Supply Chain + Operations (Post-Navy Career)
+# 1. Cloud Security & Zero Trust Mapping
 
-### What I did:
-- Managed $37M+ budgets
-- Handled vendor contracts and cost negotiations
-- Implemented process controls and audits
-- Ensured compliance and operational continuity
-- Led cross-functional teams
+### Resume Highlights
+- Command Security Manager over 3,500 personnel
+- SCIF access, background checks, credentialing
+- Insider threat prevention, OPSEC, audit controls
+- DoD/NSA/DOJ/Federal compliance
+- RMF & IA exposure
+- IT & cybersecurity oversight
 
-### Maps to FinOps + Governance:
-- Cloud budget ownership
-- Forecasting usage & spend
-- Optimization mindset
-- Documentation & workflows
-- Policy development & operational standards
+### Cloud Alignment
+- IAM governance
+- Zero Trust access control
+- Security baselines (CIS)
+- Policy enforcement & compliance
+- Identity governance automation
+- Incident response and risk mitigation
+- Cloud security posture principles
 
 ---
 
-## MBA + Leadership
-- Business strategy
-- Finance fundamentals
-- Accountability
-- Data-driven decisions
+# 2. FinOps Mapping
 
-### Maps to:
-- FinOps KPIs
-- Cloud spend analysis
-- Cost-benefit evaluation
-- Operational governance
+### Resume Highlights
+- Managed $37.4M (Navy), $11M+ (Federal), $8.7M (Aerospace)
+- Delivered $724K, $500K, $200K, and $3.5M+ savings
+- Power BI dashboards for finance
+- Forecasting, variance tracking, KPI reporting
+- Procurement analytics, spend visibility
+
+### Cloud Alignment
+- Cloud cost analysis (Cost Explorer / Azure)
+- Tagging & cost allocation
+- Rightsizing opportunities
+- Forecasting cloud usage/spend
+- Cloud budget planning
+- RI/Savings Plan recommendations
+- Cloud financial dashboards (Power BI)
+
+---
+
+# 3. Cloud Governance Mapping
+
+### Resume Highlights
+- FAR/DFAR/ITAR/DOJ compliance
+- Policy writing & enforcement
+- Audit readiness & corrective actions
+- Vendor and contract oversight
+- Workflow & SOP development
+
+### Cloud Alignment
+- Governance frameworks (AWS CAF, Azure CAF)
+- Guardrails (SCPs, RBAC, tagging policies)
+- Policy-as-code concepts
+- Audit & risk management
+- Compliance documentation
+
+---
+
+# 4. Cloud Operations Mapping
+
+### Resume Highlights
+- IT department oversight (Navy)
+- CMDB & asset lifecycle
+- Disaster recovery + continuity planning
+- ERP integration & system oversight
+- Global operations management
+
+### Cloud Alignment
+- Resource lifecycle management
+- Monitoring & alerting fundamentals
+- Backup & DR patterns
+- Operational KPIs
+- Infrastructure optimization
+
+---
+
+# 5. Analytics Mapping
+
+### Resume Highlights
+- Power BI dashboards for financial operations
+- SQL reporting for logistics & IT
+- ERP data analysis (SAP, Oracle, NALCOMIS, R-Supply)
+
+### Cloud Alignment
+- Cloud cost dashboards
+- Trend analysis (cost & usage)
+- Rightsizing visualization
+- Performance KPIs for cloud operations
 
 ---
 
 ## Summary
+Across 20+ years in military, federal, and aerospace environments, my resume aligns directly with:
 
-My background naturally aligns with:
+- **Cloud Security & IAM**
+- **Zero Trust**
+- **FinOps / Cloud Cost Governance**
+- **Cloud Operations & Optimization**
+- **Cloud Governance & Compliance**
+- **Cloud Analytics (Power BI)**
 
-- Cloud Security
-- IAM
-- Zero Trust
-- FinOps / Cloud Cost Governance
-- Cloud Operations
-- Governance & Policy roles
-
-This repo documents how I translate those strengths into cloud.
+This mapping forms the foundation of my cloud career path.
