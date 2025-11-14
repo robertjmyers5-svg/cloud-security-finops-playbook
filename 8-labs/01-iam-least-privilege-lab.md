@@ -3,22 +3,24 @@
 Goal:
 Create a least-privilege identity that can only read S3/Blob Storage.
 
-## Steps — AWS
-1. Create IAM Policy:
+## AWS Steps
+1. Create IAM policy:
    - Allow: s3:GetObject
-   - Resource: specific bucket
-2. Create IAM Role or User
-3. Attach policy
-4. Test access with AWS CLI
-5. Validate access denied to other buckets
+   - Resource: arn:aws:s3:::mybucket/*
+2. Create IAM Role or User.
+3. Attach the new policy.
+4. Test with AWS CLI:
+   aws s3 cp s3://mybucket/file.txt .
+5. Attempt access to another bucket → should be denied.
 
-## Steps — Azure
-1. Create a custom RBAC role
-2. Assign role to user/service principal
-3. Limit scope to 1 storage account
-4. Test via Azure CLI
+## Azure Steps
+1. Go to IAM → Add custom role.
+2. Permissions → Microsoft.Storage/storageAccounts/read.
+3. Assign role to user/service principal.
+4. Validate Azure CLI:
+   az storage blob list --account-name mystorage
+5. Attempt unmanaged access → denied.
 
-## Evidence to Capture
+## Evidence
 - Policy JSON
-- Failed access attempts
-- Successful limited access
+- “access denied” screenshot
