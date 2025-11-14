@@ -1,32 +1,24 @@
-# Robert Myers – Cloud Security, IAM, FinOps, Governance Portfolio
+# Robert Myers – Cloud Security, IAM, FinOps Portfolio
 
-Welcome to my cloud engineering and cloud security portfolio.  
-This site presents my full professional playbook across AWS, Azure, FinOps, IAM, Zero Trust, and multi-cloud architecture.
+Welcome to my cloud portfolio.  
+This site is generated using GitHub Pages and contains:
 
-## What’s Inside
+- Zero Trust frameworks
+- IAM and identity governance
+- Cloud cost optimization (FinOps)
+- Cloud governance and policy-as-code
+- Multi-cloud architecture patterns
+- Incident response processes
+- Security automation playbooks
+- ITIL workflows
+- Hands-on labs
+- Certification roadmap
 
-• Zero Trust frameworks  
-• Cloud IAM and identity governance  
-• Multi-cloud security comparisons  
-• Incident response procedures  
-• FinOps cost optimization  
-• Cloud governance and policy-as-code  
-• Automation playbooks  
-• ITIL operational alignment  
-• Hands-on cloud labs  
-• Certification roadmap  
+## GitHub Repository  
+https://github.com/RobertMyersCloud/cloud-security-finops-playbook
 
-## Target Roles
-• Cloud Security Analyst  
-• IAM Engineer  
-• FinOps Analyst  
-• Cloud Governance Engineer  
-• Cloud Operations Engineer  
+## LinkedIn  
+https://www.linkedin.com/in/robertjmyers5
 
-## Full Repository
-The full documentation and all sections are located in the GitHub repository.
-
-## Contact
-Email:  robert.j.myers5@gmail.com  
-LinkedIn:  www.linkedin.com/in/robertjmyers5
-GitHub:
+## GitHub  
+https://github.com/RobertMyersCloud
